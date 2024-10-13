@@ -1,0 +1,25 @@
+.Blog{
+    background-color: aquamarine;
+    padding: 30px;
+    margin: 20px ;
+    border-left: 30px solid rgb(31, 185, 196);
+    box-shadow: 5px 5px  darkslateblue;
+
+}
+
+header{
+    height:700px;
+ 
+    background-image: url(../oneplus-11-review-cnet-lanxon-promo.webp);
+}
+#second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+#sp{
+    background-color: rgb(164, 135, 190);
+   margin: 20px;
+
+ /* display:block; */
+ display: inline;
+}
