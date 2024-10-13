@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    border-radius: 20px;
+    padding:50px ;
+    background-color: rgb(64, 230, 114);
+    color: rgb(152, 100, 237);
+}
+
+nav li {
+    display: inline;
+    margin-left: 20px;
+    gap: 50px;
+}
+nav>ul>li a{
+  text-decoration: none;
+  text-align: center;
+ 
+}
+.mount{
+   margin: 50px;
+}
